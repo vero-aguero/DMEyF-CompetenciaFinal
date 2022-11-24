@@ -6,6 +6,7 @@ De la carpeta Modelo6:
 3. z925_FE_historia.r
 4. z932_training_strategy_under.r
 5. z942_HT_lightgbm_under.r
+
 De la carpeta SemillerioModelo6:
 1. z992_ZZ_lightgbm_under_semillerio.r
 2. z992_ZZ_lightgbm_under_semillerio_2.r
